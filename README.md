@@ -16,7 +16,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/brick-breaker-game.git
+git clone https://github.com/Abhiav-Raj/Breakout-Ball-Game.git
 Compile and run the game:
 
 bash
